@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Thanh Nguyen
 
-[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/ThanhDeveloper)
+[![Github](https://img.shields.io/github/followers/ThanhDeveloper?label=Follow&style=social)](https://github.com/ThanhDeveloper)
 
 - 🔭 I’m currently working on GlotechJSC as Software Enginner
 
