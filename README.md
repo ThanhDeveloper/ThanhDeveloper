@@ -27,7 +27,7 @@
 <p align="center">
    <code>Visitor count</code>
     <br>
-   <img src="https://profile-counter.glitch.me/olololoe110399/count.svg" />
+   <img src="https://profile-counter.glitch.me/ThanhDeveloper/count.svg" />
   
    <br>
    <a href="https://hits.seeyoufarm.com">
@@ -35,8 +35,9 @@
    </a>
   </p>
   
-  ### my blog
+  ### my blog and wedding
   - https://molailaptrinh.com.
+  - https://nhuthanhwedding.com.
 
 
 ### Github Starts
