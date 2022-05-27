@@ -52,8 +52,8 @@
 
 #### My contributor repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/VTNPlusD/MVI-Arrow-Coroutines-Flow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=AspNetCoreWebApplicationTemplate&theme=vue)](https://github.com/ThanhDeveloper/AspNetCoreWebApplicationTemplate)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=NestJsNoSQL&theme=vue)](https://github.com/VTNPlusD/NestJsNoSQL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=NestJsNoSQL&theme=vue)](https://github.com/ThanhDeveloper/NestJsNoSQL)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=NestJsORM&theme=vue)](https://github.com/ThanhDeveloper/NestJsORM)
