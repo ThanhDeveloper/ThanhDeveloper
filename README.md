@@ -14,6 +14,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanhDeveloper&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhDeveloper&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThanhDeveloper&theme=github)
+[![ThanhDeveloper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThanhDeveloper&layout=compact&bg_color=ffffff)](https://github.com/ThanhDeveloper)
 
 
 ### Hello visitors
