@@ -37,7 +37,6 @@
   </p>
   
  ### My Website
-  - https://molailaptrinh.com.
   - https://nhuthanhwedding.com.
 
 
