@@ -52,12 +52,7 @@
 
 #### My contributor repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=AspNetCoreWebApplicationTemplate&theme=vue)](https://github.com/ThanhDeveloper/AspNetCoreWebApplicationTemplate)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=AspNetCoreWebAPIBoilerplate-DDDArchitecture&theme=vue))](https://github.com/ThanhDeveloper/AspNetCoreWebAPIBoilerplate-DDDArchitecture)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=NestJsNoSQL&theme=vue)](https://github.com/ThanhDeveloper/NestJsNoSQL)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=NestJsORM&theme=vue)](https://github.com/ThanhDeveloper/NestJsORM)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThanhDeveloper&repo=MicroservicesExample&theme=vue)](https://github.com/ThanhDeveloper/MicroservicesExample)
