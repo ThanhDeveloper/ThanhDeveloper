@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/ThanhDeveloper?label=Follow&style=social)](https://github.com/ThanhDeveloper)
 
-- 🔭 I’m currently working on CMC Global as Software Enginner
+- 🔭 I’m currently working on Axon Active VietNam as Software Enginner
 
 ### Contact me
                   
