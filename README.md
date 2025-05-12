@@ -2,8 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/ThanhDeveloper?label=Follow&style=social)](https://github.com/ThanhDeveloper)
 
-- 🔭 I’m currently working on Axon Active VietNam as Software Enginner
-
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NguyenTamThanh1998)
